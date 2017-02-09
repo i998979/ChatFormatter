@@ -1,0 +1,7 @@
+main: to.epac.factorycraft.ChatFormatter.Main
+version: 1.1
+name: ChatFormatter
+
+commands:
+  chatformat:
+    description: Main command
